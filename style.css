@@ -1,0 +1,22 @@
+.wrapper{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+}
+
+.form-control{
+    margin-bottom: 20px;
+}
+
+
+.decimal-result,
+.binary-result{
+    width: 300px;
+    height: 200px;
+    border: 1px solid #CED4DA;
+    margin-bottom: 30px;
+    text-align: center;
+    line-height: 200px;
+    font-size: 30px;
+}
